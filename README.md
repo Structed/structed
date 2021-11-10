@@ -8,7 +8,7 @@ That means, I work with 🎮game studios and help them build game backends!
 I am not only an avid gamer myself, but have spent a number of years actually building them :-)
 
 ### Working on...
-- A secret project involving Azure virtual Machines and game dev!
+- [Gamezure](https://github.com/Structed/gamezure), a poor man's VM orchestrator to stand up Azure VMs. Maeant for Game Streaming to facilitate events or WAN-Parties.
 - The ["PlayFabMatchHistoryExtension"](https://github.com/XBOX-CSM/PlayFabMatchHistoryExtension), which I started building with [@Annonator](https://github.com/Annonator) during Microsoft Hackweek in October 2021.
 
 ### 📫Contact
