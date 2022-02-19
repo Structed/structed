@@ -17,8 +17,9 @@ I am not only an avid gamer myself, but have spent a number of years actually bu
 - LinkedIn: [linkedin.com/in/johannesebner](https://linkedin.com/in/johannesebner)
 - Blog: [blog.structed.me](https://blog.structed.me)
 
-![Structed's GitHub stats](https://github-readme-stats.vercel.app/api?username=structed&show_icons=true&theme=cobalt&hide_rank=true)
+<!--![Structed's GitHub stats](https://github-readme-stats.vercel.app/api?username=structed&show_icons=true&theme=cobalt&hide_rank=true)-->
 
+### Projects I (co-)maintain
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=godot-playfab" />
 </a>
