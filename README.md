@@ -17,6 +17,7 @@ I am not only an avid gamer myself, but have spent a number of years actually bu
 - LinkedIn: [linkedin.com/in/johannesebner](https://linkedin.com/in/johannesebner)
 - Blog: [blog.structed.me](https://blog.structed.me)
 
+![Structed's GitHub stats](https://github-readme-stats.vercel.app/api?username=structed&show_icons=true&theme=radical&)
 <!--
 **Structed/structed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
