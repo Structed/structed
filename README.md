@@ -20,16 +20,16 @@ I am not only an avid gamer myself, but have spent a number of years actually bu
 <!--![Structed's GitHub stats](https://github-readme-stats.vercel.app/api?username=structed&show_icons=true&theme=cobalt&hide_rank=true)-->
 
 ### Projects I (co-)maintain
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/structed/godot-playfab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=godot-playfab&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/annonator/PlayFabBuddy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annonator&repo=PlayFabBuddy&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/XBOX-CSM/PlayFabMatchHistoryExtension">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XBOX-CSM&repo=PlayFabMatchHistoryExtension&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/structed/gamezure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=gamezure&theme=tokyonight" />
 </a>
 
