@@ -21,16 +21,16 @@ I am not only an avid gamer myself, but have spent a number of years actually bu
 
 ### Projects I (co-)maintain
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=godot-playfab" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=godot-playfab&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annonator&repo=PlayFabBuddy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annonator&repo=PlayFabBuddy&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XBOX-CSM&repo=PlayFabMatchHistoryExtension" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XBOX-CSM&repo=PlayFabMatchHistoryExtension&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=gamezure" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=gamezure&theme=tokyonight" />
 </a>
 
 <!--
