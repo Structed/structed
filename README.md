@@ -3,7 +3,7 @@
 My name is Johannes Ebner (he/him), and I go by the alias `Structed` on the interwebz.
 
 I work [@microsoft](https://github.com/microsoft) as a "Gaming Solution Architect" in the Gaming Cloud Technology Group.
-That means, I work with 🎮game studios and help them build game backends!
+That means, I work with 🎮game studios and help them build online sevices/backends or help them to improve their production processes with the Azure Cloud!
 
 I am not only an avid gamer myself, but have spent a number of years actually building them :-)
 
