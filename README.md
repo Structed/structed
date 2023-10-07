@@ -2,14 +2,17 @@
 
 My name is Johannes Ebner (he/him), and I go by the alias `Structed` on the interwebz.
 
-I work [@microsoft](https://github.com/microsoft) as a "Gaming Solution Architect" in the Gaming Cloud Technology Group.
-That means, I work with 🎮game studios and help them build online sevices/backends or help them to improve their production processes with the Azure Cloud!
+I am a freelance "Gaming Solution Architect" and foudner of [Structed.me](https://structed.me).
+That means, I work with 🎮game studios and help them build online sevices/backends on a technical & economic level and help them to improve their production processes.
 
-I am not only an avid gamer myself, but have spent a number of years actually building them :-)
+📽️ I helped [Valheim](https://store.steampowered.com/app/892970/Valheim/) move from Steamworks P2P to PlayFab Party networking for Cross-Play! [Valheim Case Study: Piktiv Shares Learnings from Integrating Azure PlayFab Multiplayer Services](https://www.youtube.com/watch?v=l8hxprdWZdI)
+
+I am not only an avid gamer myself, but have spent a number of years actually building games! :-)
 
 ### Working on...
-- [godot-playfab](https://github.com/Structed/godot-playfab) A PlayFab SDK/integration for the @godotengine! (very early PoC)
-- [Gamezure](https://github.com/Structed/gamezure), a poor man's VM orchestrator to stand up Azure VMs. Meant for Game Streaming to facilitate events or WAN-Parties.
+- [godot-playfab](https://github.com/Structed/godot-playfab) A PlayFab SDK/integration for the [Godot Engine](https://github.com/godotengine/godot)! (now used by BpopinBits' [Dome Keeper](https://store.steampowered.com/app/1637320/Dome_Keeper/)!)
+- [PlayFabLevelLeaderboards](https://github.com/Structed/PlayFabLevelLeaderboards), a reference implementation for level-based leaderboards using PlayFab & Redis (on Azure).
+<!--- [Gamezure](https://github.com/Structed/gamezure), a poor man's VM orchestrator to stand up Azure VMs. Meant for Game Streaming to facilitate events or WAN-Parties.-->
 - The ["PlayFabMatchHistoryExtension"](https://github.com/XBOX-CSM/PlayFabMatchHistoryExtension), which I started building with [@Annonator](https://github.com/Annonator) during Microsoft Hackweek in October 2021.
 
 ### 📫Contact
