@@ -26,8 +26,8 @@ I am not only an avid gamer myself, but have spent a number of years actually bu
 <a href="https://github.com/structed/godot-playfab">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=godot-playfab&theme=tokyonight" />
 </a>
-<a href="https://github.com/annonator/PlayFabBuddy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=annonator&repo=PlayFabBuddy&theme=tokyonight" />
+<a href="https://github.com/structed/pdfmerge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=structed&repo=pdfmerge&theme=tokyonight" />
 </a>
 <a href="https://github.com/XBOX-CSM/PlayFabMatchHistoryExtension">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=XBOX-CSM&repo=PlayFabMatchHistoryExtension&theme=tokyonight" />
